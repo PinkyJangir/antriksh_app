@@ -1,0 +1,34 @@
+.About_us{
+    text-align: center;
+    padding-left: 10rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    padding-right: 10rem;
+    background: linear-gradient(
+    0deg,
+    rgba(20, 161, 255, 1) 0%,
+    rgba(152, 242, 250, 1) 100%
+  );
+  }
+  .about_pic{
+    align-items: left;
+    margin-left: 5rem;
+    margin-top: 5rem;
+  }
+  .for_about_text{
+    /* text-align: right; */
+    margin-top: -15rem;
+    margin-left: 25rem;
+    margin-right: 5rem;
+  }
+  .about_text_2{
+    margin-top: 7rem;
+    margin-left: 5rem;
+    margin-right: 30rem;
+  }
+  .about_pic2{
+    align-items: center;
+    margin-left: 50rem;
+    margin-top: -9rem;
+  }
+  

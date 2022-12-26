@@ -1,0 +1,38 @@
+/* Hero */
+.hero {
+    background: rgb(20, 161, 255);
+    background: linear-gradient(
+      0deg,
+      rgba(20, 161, 255, 1) 0%,
+      rgba(152, 242, 250, 1) 100%
+    );
+    margin-top: 70px;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .hero_left{
+      text-align: left;
+  }
+  
+  .hero_right{
+    text-align: center;
+  }
+  
+  .hero_head{
+      font-size: 10vh;
+      font-weight: bolder;
+      color: black;
+      line-height: 10vh;
+  }
+  
+  .hero_desc{
+      color: black;
+  }
+  
+  
+  .red{
+      background-color: red;
+  }
+  
